@@ -6,3 +6,4 @@ Hi
 hihjkl
 reset practice
 Workflow
+master rebase change
