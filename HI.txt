@@ -6,10 +6,8 @@ Hi
 hihjkl
 reset practice
 Workflow
-<<<<<<< HEAD
 master rebase change
-=======
 master rebase change
 Rebase branch change
 Cherry pick practice
->>>>>>> c70b3b1 (cherry-pick practice)
+final-project practice
